@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;SecurityConfig.java&apos; to &apos;spring-security-jdbc/src/main/java/com.security.config&apos;&#x0D;&#x0A;- Original project: &apos;spring-security-jdbc&apos;&#x0D;&#x0A;- Destination element: &apos;spring-security-jdbc/src/main/java/com.security.config&apos;&#x0D;&#x0A;- Original element: &apos;com.security.controller.SecurityConfig.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src\/main\/java&lt;com.security.config" element1="/src\/main\/java&lt;com.security.controller{SecurityConfig.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1591542191621" units="1" version="1.0"/>
+</session>

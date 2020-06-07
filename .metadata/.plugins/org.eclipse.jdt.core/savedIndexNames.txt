@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+D:\java-sw\projects-pracktice\spring-security\.metadata\.plugins\org.eclipse.jdt.core
+2757381352.index
+806851485.index
+2956276990.index
+390592616.index
+2017491854.index
+1884081395.index
+1596251773.index
